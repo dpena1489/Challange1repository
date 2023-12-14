@@ -11,16 +11,22 @@ N/A
 ## Contents
 
 Deployed Page
+
 Refactor Comments
+
 Contributions
 
 ## Refractor Comments 
 
 Added comments to index.html to facilitate refactoring 
+
 consolidated repetitive styles 
+
 Added web title 
+
 Fixed broken link
-Refactored select div elements elements and changed them to article atributes
+
+Refactored select div elements elements and changed them to article attributes
 
 
 
